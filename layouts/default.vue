@@ -108,9 +108,14 @@ export default {
           to: '/inspire'
         },
         {
-          icon: 'mdi-calculator',
-          title: 'Carcule',
-          to: '/carcule'
+          icon: 'mdi-apps',
+          title: 'Todos',
+          to: '/todo'
+        },
+        {
+          icon: 'mdi-login',
+          title: 'Login',
+          to: '/login'
         }
       ],
       miniVariant: false,
